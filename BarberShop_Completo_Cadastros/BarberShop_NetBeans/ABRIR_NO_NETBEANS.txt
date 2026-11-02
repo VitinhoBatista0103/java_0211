@@ -1,0 +1,11 @@
+COMO ABRIR NO NETBEANS
+
+1. Extraia o ZIP para uma pasta do computador.
+2. Abra o NetBeans.
+3. Vá em File > Open Project (Arquivo > Abrir Projeto).
+4. Selecione a pasta BarberShop_NetBeans (a pasta que contém build.xml e nbproject).
+5. Clique em Open Project.
+6. Para executar, clique com o botão direito no projeto e escolha Run.
+
+Se o NetBeans pedir para selecionar uma plataforma Java, selecione o JDK instalado.
+As imagens originais não estão incluídas; os códigos toleram a ausência delas.

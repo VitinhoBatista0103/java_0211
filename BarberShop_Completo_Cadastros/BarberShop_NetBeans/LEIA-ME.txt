@@ -1,0 +1,27 @@
+BARBERSHOP - PROJETO NETBEANS COMPLETO
+
+O projeto inclui:
+- Login com usuário admin e senha 1234.
+- Menu principal.
+- Cadastro de clientes: cadastrar, listar, editar e excluir.
+- Cadastro de serviços: cadastrar, listar, editar e excluir.
+- Agenda integrada aos clientes e serviços cadastrados.
+- Modelos Pessoa, Cliente, Usuario, Servico e Agendamento.
+- DAOs e Banco em memória.
+
+COMO ABRIR
+1. Extraia a pasta BarberShop.
+2. No NetBeans, escolha File > Open Project.
+3. Selecione a pasta BarberShop extraída.
+4. Execute o projeto (F6).
+
+LOGIN DE TESTE
+Usuário: admin
+Senha: 1234
+
+IMPORTANTE
+O Banco.java usa ArrayLists em memória. Os cadastros feitos durante a execução são perdidos ao fechar o programa.
+As imagens originais não foram incluídas. As telas funcionam sem elas; para recuperar o visual original, copie as imagens para src/View/Imagens e src/View/Imagens/icons.
+
+As telas de cadastro abrem pelo menu Cadastro > Cliente e Cadastro > Serviço.
+Na Agenda, a lista de clientes e serviços é carregada dos respectivos DAOs ao abrir a tela.
